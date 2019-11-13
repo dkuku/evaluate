@@ -1,0 +1,3 @@
+%{
+  "ex_cldr_unicode": {:hex, :ex_cldr_unicode, "0.7.0", "b879a39dc314b92b6f1d6ddc465ca990435a426f52febbe361f7457afb3037fd", [:mix], [], "hexpm"},
+}
